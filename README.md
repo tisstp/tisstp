@@ -2,6 +2,32 @@
 
 ![Profile views counter](https://gpvc.arturio.dev/tisstp)
 
+<div align="left">
+  <a href="https://twitter.com/tis_stp">
+    <img
+      src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://github.com/tisstp">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/tisstp" target="_blank">
+    <img
+      width="256"
+      align="right"
+      alt="Sathaphorn Sunthornpan's Dev Card"
+      src="https://api.daily.dev/devcards/effa3614aafd4eddbf4d240ea29e407f.png?r=z9e"
+    />
+  </a>
+</div>
+
+<br />
+
 - 🔭 I’m currently working on the frontend of the finance chat messenger
 - 🌱 I’m currently learning web performances
 
