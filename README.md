@@ -1,7 +1,5 @@
 ## Hi there,  My name is Sathaphorn Sunthornpan (Tis)  <img src="https://media.giphy.com/media/ggRRQe8moeCp0hNb6z/giphy.gif" width="32px">
 
-![Profile views counter](https://gpvc.arturio.dev/tisstp)
-
 <div align="left">
   <a href="https://twitter.com/tis_stp">
     <img
