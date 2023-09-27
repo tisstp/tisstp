@@ -23,9 +23,9 @@
 - 🔭 I’m currently working on the frontend of the finance chat messenger
 - 🌱 I’m currently learning web performances
 
-[![tisstp's github stats](https://github-readme-stats.vercel.app/api?username=tisstp&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![tisstp's github stats](https://github-readme-stats.vercel.app/api?username=tisstp&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisstp&hide=php&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tisstp&hide=php&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **tisstp/tisstp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
